@@ -5,6 +5,7 @@ This repository contains my daily Java programming and DSA practice.
 ## Topics Covered
 - Operators
 - Conditional Statements (if-else, switch)
+- Loops (while loop, reverse number, palindrome, factorial, digit logic)
 
 ##  Language
 - Java
