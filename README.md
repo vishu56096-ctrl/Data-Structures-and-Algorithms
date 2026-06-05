@@ -7,6 +7,7 @@ This repository contains my daily Java programming and DSA practice.
 - Conditional Statements (if-else, switch).
 - Loops (while loop, reverse number, palindrome, factorial, digit logic).
 - Functions and Methods (method creation, parameter passing, return types, function interaction). *
+- Pattern Problems (number patterns, pyramid patterns, butterfly patterns, rhombus patterns etc. )
 
 ##  Language
 - Java
