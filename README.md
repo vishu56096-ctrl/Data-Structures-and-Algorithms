@@ -1,24 +1,43 @@
-## Data Structures and Algorithms
+# Java Data Structures and Algorithms Journey
 
-This repository contains my daily Java programming and DSA practice.
+A structured collection of Java programs created while building programming fundamentals, problem-solving skills, and data-structures-and-algorithms knowledge.
 
-## Topics Covered
-- Operators
-- Conditional Statements (if-else, switch).
-- Loops (while loop, reverse number, palindrome, factorial, digit logic).
-- Functions and Methods (method creation, parameter passing, return types, function interaction). *
-- Pattern Problems (number patterns, pyramid patterns, butterfly patterns, rhombus patterns etc. )
+## Learning path
 
-##  Language
-- Java
+Work through the folders in order:
 
-##  Goal
-Improving problem-solving skills, logic building, and consistency through daily coding practice.
+| Step | Topic | What it covers |
+| --- | --- | --- |
+| 01 | Fundamentals | Operators, arithmetic, and basic Java programs |
+| 02 | Conditionals | `if-else` and `switch` practice |
+| 03 | Loops and Logic | Digit problems, factorials, palindromes, and tables |
+| 04 | Functions and Methods | Reusable methods, number conversions, and number problems |
+| 05 | Pattern Problems | Console patterns using loops |
+| 06 | Array Practice | Array traversal, search-style logic, frequency, and reversal |
 
-##  Practice Includes
-- Problem Solving
-- Data Structures and Algorithms Concepts
-- Logic Building
+## How to run a program
+
+From a topic folder, compile and run a file with Java:
+
+```bash
+javac FileName.java
+java FileName
+```
+
+For example:
+
+```bash
+cd 06-Array-Practice
+javac ReverseArray.java
+java ReverseArray
+```
+
+Compiled `.class` files are ignored because they are generated automatically by Java.
+
+## Language
+
+Java
 
 ## Author
+
 Vishal Kumar
