@@ -11,7 +11,7 @@ Work through the folders in order:
 - **03-Loops** – Solve number-based problems using for, while, and do-while loops.
 - **04-Functions-and-Methods** – Create reusable methods, pass parameters, and solve logic-based problems.
 - **05-Pattern-Problems** – Build star, number, and character patterns using nested loops.
-- **06-Array-Practice** – Perform traversal, searching, reversing, counting, and other array operations.
+- **06-Arrays** – Perform traversal, searching, reversing, counting, and other array operations.
 
 
 ## Language
