@@ -1,23 +1,63 @@
-# Java Data Structures and Algorithms
+# Java Data Structures & Algorithms
 
-A collection of Java programs for learning programming fundamentals, problem-solving, and Data Structures & Algorithms.
+A structured, continuously updated record of my Data Structures and Algorithms practice in Java, built through daily, disciplined problem-solving.
 
-## Topics Covered
+---
 
-Work through the folders in order:
+## Repository Overview
 
-- **01-Fundamentals** – Learn Java syntax, variables, data types, operators, and basic programming concepts.
-- **02-Conditionals** – Practice decision-making using if, else-if, nested if, and switch statements.
-- **03-Loops** – Solve number-based problems using for, while, and do-while loops.
-- **04-Functions-and-Methods** – Create reusable methods, pass parameters, and solve logic-based problems.
-- **05-Pattern-Problems** – Build star, number, and character patterns using nested loops.
-- **06-Arrays** – Perform traversal, searching, reversing, counting, and other array operations.
+This repository is not a course project or a one-time assignment. It is a long-term practice log where I solve DSA problems consistently, track my progress over time, and refine my understanding of core computer science fundamentals using Java.
 
+Every commit represents a problem solved, a concept revisited, or an approach improved. The goal is steady, compounding progress rather than short bursts of activity.
 
-## Language
+---
+---
 
-Java
+## Current Progress
+
+**01-Fundamentals**
+**02-Conditionals**
+**03-Loops-and-Logic**
+**04-Functions-and-Methods**
+**05-Pattern-Problems**
+**06-Arrays** 
+
+---
+
+## Upcoming Topics
+
+- Sorting
+- Recursion
+- Linked List
+- Stack
+- Queue
+- Hashing
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+## Coding Style
+
+- One problem per file
+- Meaningful file names
+- Clean Java code
+- Gradual optimization where applicable
+
+---
+
+## Running the Code
+
+```bash
+javac FileName.java
+java FileName
+```
+
+---
 
 ## Author
 
-Vishal Kumar
+**Vishal Kumar (Vishu)**
+MCA Student, Jaipur National University
+GitHub: [vishu56096-ctrl](https://github.com/vishu56096-ctrl)
