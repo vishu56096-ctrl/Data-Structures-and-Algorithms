@@ -15,28 +15,15 @@ Every commit represents a problem solved, a concept revisited, or an approach im
 
 ## Current Progress
 
-**01-Fundamentals**
-**02-Conditionals**
-**03-Loops-and-Logic**
-**04-Functions-and-Methods**
-**05-Pattern-Problems**
-**06-Arrays** 
+-  **01-Fundamentals** → Variables, Data Types, Operators, Type Casting
+-  **02-Conditionals** → If-Else, Switch Case, Nested If, Logical Operators
+-  **03-Loops-and-Logic** → Loops, Number Problems, Nested Loops, Logic Building
+-  **04-Functions-and-Methods** → Functions, Parameters, Recursion Basics, Method Overloading
+-  **05-Pattern-Problems** → Star, Number, Character, Advanced Patterns
+-  **06-Arrays** → Traversal, Searching, Subarrays, Maximum Subarray
 
 ---
 
-## Upcoming Topics
-
-- Sorting
-- Recursion
-- Linked List
-- Stack
-- Queue
-- Hashing
-- Trees
-- Graphs
-- Dynamic Programming
-
----
 
 ## Coding Style
 
