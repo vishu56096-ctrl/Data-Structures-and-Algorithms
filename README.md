@@ -45,6 +45,6 @@ java FileName
 
 ## Author
 
-**Vishal Kumar (Vishu)**
+**Vishal Kumar**
 MCA Student, Jaipur National University
 GitHub: [vishu56096-ctrl](https://github.com/vishu56096-ctrl)
